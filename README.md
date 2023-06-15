@@ -1,5 +1,3 @@
-# Wavy-Animated-Bottom-Navigation-Bar
-Wavy-Animated-Bottom-Navigation-Bar
 # Wavy Animated Bottom Navigation Bar
 
 ![App UI](/both.gif)
